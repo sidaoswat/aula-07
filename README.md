@@ -1,2 +1,4 @@
 # aula-07
-Aula 07 digital house
+Curso Full Stack Java 
+
+Aula 07 digital house - Git, Github e JS
